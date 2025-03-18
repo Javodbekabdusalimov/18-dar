@@ -1,0 +1,70 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 1440px;
+  margin: 0 auto;
+}
+.boshi {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: black;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+.a {
+  color: white;
+}
+.b {
+  display: flex;
+  gap: 10px;
+}
+.u {
+  width: 30px;
+  height: 30px;
+  border-radius: 40px;
+  color: white;
+}
+.s {
+  text-align: center;
+  color: black;
+  font-size: 88px;
+}
+.markaz {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 114px;
+}
+.p {
+  display: flex;
+  flex-direction: column;
+}
+.rasm {
+  width: 393px;
+  height: 230px;
+  border-radius: 20px;
+}
+.t {
+  width: 393px;
+  height: 230px;
+}
+.o {
+  text-align: center;
+}
+.ota {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-left: 100px;
+  margin-right: 100px;
+  gap: 30px;
+}
+.b {
+  display: flex;
+  justify-content: end;
+}
